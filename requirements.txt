@@ -1,0 +1,12 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+huggingface_hub==0.15.1
+torch==2.0.1
+pandas==2.0.2
+tokenizers==0.13.3
+psutil==5.8.0
+transformers==4.30.2
+seaborn 
+openpyxl
+numpy==1.21.4
+scikit-learn==0.24.2
+matplotlib==3.4.3
